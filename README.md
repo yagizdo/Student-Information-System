@@ -1,3 +1,3 @@
-# Student - information - system
-Java ile üniversite öğrenci bilgi sistemi.
-Bu sistemde başlangıçta öğrenci ve ders sayısını girerek, her bir öğrencinin her bir dersine notlarını girebilir sonra da bunları tablolayabilirsiniz.
+# Student - Information - System
+University student information system with Java.
+In this system, by entering the number of students and courses at the beginning, you can enter each student's grades in each course and then view them.
